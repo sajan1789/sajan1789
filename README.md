@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajan1789/sajan1789.github.io](https://github.com/sajan1789/sajan1789.github.io)
+- 👨‍💻 All of my projects are available at https://sajan1789.github.io/
 
 - 💬 Ask me about **react,javascript,html,css,dsa**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajan-kumar-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajan-kumar-gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajan-kumar-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajan-kumar-gupta" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/sajan1789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sajan1789" height="30" width="40" /></a>
 </p>
 
