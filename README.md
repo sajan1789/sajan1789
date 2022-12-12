@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sajan kumar</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer||MERN Stack||JavaScript</h3>
+<h3 align="center">A passionate Mern stack developer from India</h3>
 <img align="right" alt="coading" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan1789&label=Profile%20views&color=0e75b6&style=flat" alt="sajan1789" /> </p>
